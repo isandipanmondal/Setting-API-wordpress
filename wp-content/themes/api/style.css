@@ -1,0 +1,22 @@
+/*  
+
+Theme Name: Setting API
+Theme URI: https:// webalpha.com
+Author Name: Sandee
+Author URI: https:// webalpha.com
+Description: It is for API setting. I am describing about setting API
+
+*/
+
+body {
+	background: orange;
+}
+
+h1 {
+	font-size: 6em;
+	background: #fff;
+	color: orange;
+	text-align: center;
+	border-radius: 2px;
+	padding: 10px 0 20px 0;
+}

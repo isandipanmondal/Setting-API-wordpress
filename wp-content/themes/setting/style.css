@@ -1,0 +1,24 @@
+/* 
+
+Theme Name: Setting API
+Theme URI: https://www.webalpha.com
+Author: Sandee
+Author URI: https://www.webalpha.com
+Version: 2.5
+Description: This theme is setting API
+
+ */
+
+ body {
+ 	background: blue;
+ 	text-align: center;
+ 	color: #fff;
+
+ }
+
+ .slider {
+ 	font-size: 10em; 
+ 	color: blue;
+ 	background: white;
+ 	border-radius: 2px;
+ }
